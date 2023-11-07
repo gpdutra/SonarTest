@@ -1,1 +1,1 @@
-console.log('dal')
+console.log('dalezada')
